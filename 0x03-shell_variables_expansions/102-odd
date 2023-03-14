@@ -1,2 +1,2 @@
 #!/bin/bash
-pastev -d, - - | cut -d, -f1
+tr `echo [a..z] | tr -d''``echo{n..z} $(ech {a..m} | tr -d''` | tr `echo {A $(echo {A..M} | tr -d''`
